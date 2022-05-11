@@ -36,7 +36,7 @@ gcc recusive_DFS.c -o a.out	//或make
 
 ###### (3)运行结果
 
-![image-20220511090800204](.\img\image-20220511090800204.png)
+![image-20220511090800204](./img/image-20220511090800204.png)
 
 
 
